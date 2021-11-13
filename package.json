@@ -1,0 +1,28 @@
+{
+  "name": "spotify4artists",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shkumbinhasani/spotify4artists.git"
+  },
+  "keywords": [
+    "spotify",
+    "for",
+    "artists"
+  ],
+  "author": "Shkumbin Hasani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shkumbinhasani/spotify4artists/issues"
+  },
+  "homepage": "https://github.com/shkumbinhasani/spotify4artists#readme",
+  "dependencies": {
+    "got": "^11.8.2",
+    "node-fetch": "2.6.1"
+  }
+}
